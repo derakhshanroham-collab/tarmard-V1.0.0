@@ -1,0 +1,7 @@
+{
+  "appId": "com.tarmard.game",
+  "appName": "تارمرد",
+  "webDir": "www",
+  "backgroundColor": "#14123a",
+  "server": { "androidScheme": "https" }
+}
